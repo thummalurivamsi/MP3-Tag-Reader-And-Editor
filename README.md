@@ -1,4 +1,5 @@
 🎵 MP3 Tag Reader in C
+
 This project is a terminal-based MP3 Tag Reader developed in the C programming language. It parses and extracts metadata information from MP3 files’ ID3 tags, such as song title, artist, album, year, and genre. The system demonstrates file handling, binary data parsing, and structured output display, serving as a foundational multimedia tool.
 
 📌 Project Overview
